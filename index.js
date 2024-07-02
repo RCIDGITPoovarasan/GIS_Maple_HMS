@@ -1,4 +1,5 @@
 var configdata = configdataroot;
+var gitcheck;
 var MainCSV;
 var MeadianLHSCSV;
 var MeadianRHSCSV;
